@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: employee-tax
+
+app:
+  message: This is primary Application Property for employee-tax
